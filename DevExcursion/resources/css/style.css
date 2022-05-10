@@ -1,0 +1,49 @@
+
+.cta_body {
+    background-color: black;
+}
+
+#heading {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.cta_info {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+#cta_guide {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+    color: white;
+}
+
+#cta_interest {
+    font-family: Verdana;
+    color: gray;
+    font-size: 20px;
+}
+
+#cta_iphone {
+    font-family: Verdana;
+    color: rgb(247, 245, 241);
+}
+
+#cta_soon {
+    font-family: Verdana;
+    color: aquamarine;
+}
+
+.cta_footer {
+    font-family: Verdana;
+    text-align: right;
+    color: gray;
+    /*remember to search and add the symbol later since you can't find it on the keyboard, lol */
+}
